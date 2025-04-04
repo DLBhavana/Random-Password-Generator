@@ -1,0 +1,17 @@
+Test Case-1:
+
+Enter the desired password length: 9
+Include uppercase letters? (true/false): true
+Include lowercase letters? (true/false): true
+Include digits? (true/false): true
+Include special characters? (true/false): true
+Generated Password: dhMcP5Lhg
+
+Test Case-2:
+
+Enter the desired password length: 6
+Include uppercase letters? (true/false): true
+Include lowercase letters? (true/false): false
+Include digits? (true/false): false
+Include special characters? (true/false): true
+Generated Password: INC/JA
